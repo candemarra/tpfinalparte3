@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&family=Jaro:opsz@6..72&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body {
+    background-color: rgb(241, 223, 178);
+}
+h1 {font-family: Jaro, serif;
+     color: rgb(104, 5, 76);
+     text-align: center;}
+h3{font-family: Jaro, sans-serif;
+    color: rgb(13, 86, 78);
+    text-align: center;}
+p{font-family: Jaro, sans-serif;
+    color: rgb(13, 86, 78);}
+h4 {font-family: Jaro, sans-serif;
+    color: rgb(104, 5, 76);}
+button {font-family: Jaro, sans-serif;
+    background-color: rgb(198, 177, 139);
+    border: 2px solid rgb(13, 86, 78); 
+    border-radius: 8px; }
+label  {font-family: Jaro, sans-serif;
+    color: rgb(104, 5, 76);
+    background-color:  rgb(104, 5, 76);;}
+a {font-family: Jaro, sans-serif;
+    color: rgb(104, 5, 76);}
+label  {font-family: Jaro, sans-serif;
+    color:rgb(13, 86, 78);;
+    background-color:  rgb(198, 177, 139);
+    border: 2px solid rgb(13, 86, 78); 
+    border-radius: 8px; 
+    padding: 10px 15px; 
+    display: inline-block; 
+    text-align: center;}
+
+       
